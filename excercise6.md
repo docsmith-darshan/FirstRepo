@@ -2,6 +2,9 @@
 
 ## Merging Branches
 
-I'm on master branch now. I want to show you how merge branch works. This is used for the pull request demo. *from master*
+
+I'm on master branch now. I want to show you how merge branch works. This is used for the pull request demo. **third special from the master**
+ *from master*
+
 
 **from the master**
