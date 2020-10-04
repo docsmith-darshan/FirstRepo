@@ -7,3 +7,6 @@ This change is made in text editor.
 
 
 Right now I'm in the middle of working on this file.
+after push, i'm editing again
+
+checking how stash works on branch
